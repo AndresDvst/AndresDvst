@@ -98,11 +98,11 @@ y liderazgo técnico en entornos corporativos y freelance.
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresDvst&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDvst&layout=compact&theme=dark" />
 </p>
 
 <hr>
