@@ -6,11 +6,23 @@
 </h3>
 
 <p align="center">
-  <a href="TU_LINK_LINKEDIN">LinkedIn</a> •
-  <a href="https://github.com/AndresDvst">GitHub</a> •
-  <a href="mailto:andresjcampos20@gmail.com">Email</a> •
-  <a href="TU_LINK_PORTAFOLIO">Portafolio</a>
+  <a href="TU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="TU_LINK_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="TU_LINK_FACEBOOK">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="TU_LINK_TWITTER">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/573114707245">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
 
 <hr>
 
@@ -116,29 +128,5 @@ Especializado en la implementación de <strong>arquitecturas seguras</strong>,
 📍 Bucaramanga, Colombia<br>
 📧 andresjcampos20@gmail.com<br>
 📱 WhatsApp: +57 311 470 7245
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="TU_LINK_LINKEDIN">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="TU_LINK_INSTAGRAM">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="TU_LINK_FACEBOOK">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="TU_LINK_TWITTER">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/573114707245">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="35"/>
-  </a>
 </p>
 
