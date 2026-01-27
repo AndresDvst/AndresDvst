@@ -49,64 +49,12 @@ Especializado en la implementación de <strong>arquitecturas seguras</strong>,
 
 <hr>
 
-<h2>💼 Experiencia Profesional</h2>
-
-<h4>🔐 Analista de Ciberseguridad & TI — Fénix International LTD (2025)</h4>
-<ul>
-  <li>Protección y administración de infraestructuras tecnológicas críticas</li>
-  <li>Automatización con IA, Python y testing de sistemas</li>
-  <li>Diseño e implementación de políticas de seguridad informática</li>
-</ul>
-
-<h4>🔐 Analista de Ciberseguridad & TI — APL Software (2024)</h4>
-<ul>
-  <li>Automatización de procesos técnicos y administrativos</li>
-  <li>Gestión de redes Mikrotik y servidores empresariales</li>
-  <li>Soporte especializado en software corporativo</li>
-</ul>
-
-<h4>🏦 Analista TI — Banco Davivienda (2023 - 2024)</h4>
-<ul>
-  <li>Migración y estandarización de equipos informáticos</li>
-  <li>Supervisión de infraestructura de red y servidores</li>
-  <li>Soporte TI en entorno bancario corporativo</li>
-</ul>
-
-<h4>🖥️ Técnico en Sistemas — Vanguardia Liberal (2022 - 2023)</h4>
-<ul>
-  <li>Instalación de videovigilancia y redes Wi-Fi/Ethernet</li>
-  <li>Mantenimiento preventivo y correctivo de equipos</li>
-</ul>
-
-<hr>
-
 <h2>🤖 Automatización & Freelance</h2>
 <ul>
   <li>Automatización de procesos con n8n, Make y Zapier</li>
   <li>Desarrollo de scripts en Python y JavaScript</li>
   <li>Creación de chatbots para WhatsApp y entornos blockchain</li>
   <li>Integración de APIs, VPS y servicios cloud</li>
-</ul>
-
-<hr>
-
-<h2>🎓 Educación</h2>
-<ul>
-  <li>Técnico en Ciberseguridad — SENA</li>
-  <li>Técnico en Desarrollo Web — SENA</li>
-  <li>Técnico en Sistemas — SENA</li>
-  <li>Técnico en Telecomunicaciones — SENA</li>
-</ul>
-
-<hr>
-
-<h2>🧠 Habilidades Profesionales</h2>
-<ul>
-  <li>Liderazgo técnico</li>
-  <li>Comunicación efectiva</li>
-  <li>Pensamiento estratégico</li>
-  <li>Gestión del tiempo</li>
-  <li>Trabajo colaborativo</li>
 </ul>
 
 <hr>
