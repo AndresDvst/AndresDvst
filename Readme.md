@@ -1,76 +1,103 @@
-<h2 align="center">
-Hola 👋! Mi nombre es Andrés Campos<br><br>
-🔐 Cybersecurity Analyst & Automation Engineer<br>
-🤖 IA • 🐍 Python • ⚙️ n8n • ☁️ Cloud
-</h2>
+<h1 align="center">Hola 👋, soy Andrés Campos</h1>
+
+<h3 align="center">
+Lead Developer & AI Platform Engineer<br>
+☁️ Google Cloud · 🤖 LLMOps · ⚙️ DevOps · 🔐 Ciberseguridad
+</h3>
+
+<p align="center">
+Diseño, construyo y opero plataformas donde los agentes de IA corren en producción de verdad, no en una demo.
+</p>
 
 ---
 
-<h3 align="center">🧑‍💻 Perfil Profesional</h3>
+<h3 align="center">🧑‍💻 Sobre mí</h3>
 
-<h6 align="center">
-Tecnólogo en Sistemas con más de 3 años de experiencia en ciberseguridad,
-automatización de procesos, infraestructura TI y desarrollo de soluciones inteligentes.
-Especializado en arquitecturas seguras, automatización empresarial y soporte técnico avanzado
-en entornos corporativos y freelance.
-</h6>
+<p align="center">
+Tecnólogo en Sistemas con más de 4 años de experiencia en infraestructura cloud, ciberseguridad y automatización.<br>
+Hoy lidero el desarrollo de <a href="https://mision1m.com">M1M</a> en HUTRIT: una plataforma serverless multi-tenant<br>
+para crear, operar y medir agentes de IA en Google Cloud, con un equipo de 3 desarrolladores.
+</p>
 
 ---
 
-<h3 align="center">🛠️ Stack Tecnológico</h3>
+<h3 align="center">🚀 En qué trabajo</h3>
 
-<img align="right" height="150"
-src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif" />
+- ⚡ **Arquitectura serverless con scale-to-zero:** un servicio Cloud Run por agente, que se apaga cuando está inactivo y revive en segundos sin perder estado.
+- 🔌 **Contrato único de adaptadores:** Hermes, OpenClaw, Claude Code, Codex, OpenCode y Antigravity bajo una misma interfaz.
+- 🛡️ **Seguridad por capas:** Cloud Armor (WAF OWASP), IAM de mínimo privilegio, Secret Manager y aislamiento multi-tenant con Row-Level Security.
+- 💰 **Control de coste de tokens:** topes por usuario que bloquean el gasto antes de ejecutar cada turno.
+- 🔨 **CI/CD keyless** con Workload Identity Federation y despliegues sin cortes mediante traffic splitting.
+- 👥 **Liderazgo técnico:** más de 1.500 issues gestionadas y 1.450 MRs mergeados en GitLab, de la v14 a la v42.
+
+> 🔒 La mayor parte de mi trabajo actual vive en repositorios privados, así que mi actividad pública no lo refleja por completo.
+
+---
+
+<h3 align="center">🛠️ Stack tecnológico</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab"/>
 </div>
 
-<h6 align="center">
-Lenguajes: Python, JavaScript, SQL<br>
-Automatización: n8n, Make, Zapier<br>
-Cloud & Infra: AWS, Azure, GCP, Linux Server, Windows Server<br>
-Bases de Datos: MySQL, PostgreSQL, SQLite<br>
-Networking: LAN/WAN, VPN, Firewalls, Mikrotik<br>
-Cybersecurity: Hardening, Monitoreo, SOC básico, Políticas de Seguridad
-</h6>
+<br>
+
+| Área | Tecnologías |
+|---|---|
+| **IA y agentes** | Orquestación de LLMs, MCP, Google ADK, Vertex AI, OpenRouter, NVIDIA NIM, Hermes, OpenClaw, Claude Code |
+| **Google Cloud** | Cloud Run, Cloud SQL, Secret Manager, Cloud Armor, Identity Platform, Cloud Storage, Pub/Sub, IAM |
+| **DevOps** | Docker, GitLab CI, GitHub Actions, Workload Identity Federation, Caddy, Tailscale |
+| **Desarrollo** | TypeScript, Python, JavaScript, Bun, Fastify, Next.js, React, SQL, Bash |
+| **Bases de datos** | PostgreSQL (Row-Level Security), MySQL, SQLite |
+| **Observabilidad** | Prometheus, Grafana, Cloud Monitoring, n8n |
+| **Seguridad** | IAM de mínimo privilegio, OIDC / OAuth 2.0, 2FA, WAF, hardening, respuesta a incidentes |
+| **Infraestructura** | AWS, Azure, Linux Server, Windows Server, Active Directory, MikroTik |
+| **Automatización** | n8n, Make, Zapier, chatbots de WhatsApp |
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresDvst&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresDvst&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDvst&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDvst&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
 </div>
 
 ---
 
-<h3 align="center">🐍 Pacman (Contribution Snake)</h3>
+<h3 align="center">🐍 Contribuciones</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AndresDvst/AndresDvst/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AndresDvst/AndresDvst/output/github-contribution-grid-snake-dark.svg" alt="Snake de contribuciones"/>
 </div>
 
 ---
@@ -78,20 +105,11 @@ Cybersecurity: Hardening, Monitoreo, SOC básico, Políticas de Seguridad
 <h3 align="center">🌐 Conecta conmigo</h3>
 
 <div align="center">
-<a href="https://wa.me/+573001234567?text=Hola%20desde%20BotCryptoV2%20🚀" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://twitter.com/AndresDvst25" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.facebook.com/andres.campos.732122" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/andres.devback/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/andresdevback22/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/AndresDvst" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://discord.com/users/1133809866130067476" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/andrescamposg/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:andresjcampos20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://twitter.com/AndresDvst25" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://discord.com/users/1133809866130067476" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
 
----
-
-<h3 align="center">🎧 Spotify</h3>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31udjywffijpdsxrpunb3i574flm&count=5"/>
-</div>
+<p align="center">📍 Venezuela · Disponible para posiciones remotas internacionales</p>
 
